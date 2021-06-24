@@ -1,0 +1,18 @@
+{
+  "header": {
+    "nb-li-1": "Home",
+    "nb-li-2": "Menú",
+    "nb-li-3": "Horarios",
+    "nb-li-4": "Mi cuenta"
+  },
+  "categories": {
+    "food": "Comida",
+    "breakfast": "Desayuno",
+    "drinks": "Bebidas",
+    "desserts": "Postres"
+  },
+  "menu-option": {
+    "complete": "Menú Completo",
+    "no-gluten": "Sin Gluten"
+  }
+}

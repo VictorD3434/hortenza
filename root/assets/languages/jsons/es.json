@@ -1,0 +1,79 @@
+{
+  "header": {
+    "nb-li-1": "Home",
+    "nb-li-2": "Menú",
+    "nb-li-3": "Horarios",
+    "nb-li-4": "Mi cuenta",
+    "nb-register": "Regístrate"
+  },
+  "categories": {
+    "food": "Comida",
+    "breakfast": "Desayuno",
+    "drinks": "Bebidas",
+    "guilty": "Culpables"
+  },
+  "authentication": {
+    "sign-in-title": "Inciar Sesión",
+    "sign-up-title": "Crear Cuenta",
+    "forgot-password-title": "Recuperación de Contraseña",
+    "email-title": "Correo Electrónico",
+    "email-placeholder": "Ingrese su correo electrónico",
+    "password-title": "Contraseña",
+    "password-placeholder": "Ingrese su contraseña",
+    "confirm-password-title": "Confirma su contraseña",
+    "confirm-password-placeholder": "Ingrese su confirmación de contraseña",
+    "forget-password-title": "¿Olvidaste tu contraseña?",
+    "create-account-title": "Crear una cuenta",
+    "continue-button": "Continuar",
+    "register-button": "Registrar",
+    "we-get-it-title": "Lo entendemos, estas cosas suceden.",
+    "fast-easy-title": "Rapido y Facil",
+    "send-button": "Enviar",
+    "already-account-title": "Ya tengo una cuenta",
+    "sign-in-with": "o incia sesión con",
+    "sign-up-with": "o crear cuenta con",
+    "google-button-title": "Google",
+    "facebook-button-title": "Facebook",
+    "twitter-button-title": "Twitter"
+  },
+  "profile-info": {
+    "edit-title": "Editar perfil",
+    "add-title": "Agregar perfil",
+    "name-title": "Nombre",
+    "name-placeholder": "Ingrese su nombre",
+    "last-name-title": "Apellido",
+    "last-name-placeholder": "Ingrese su apellido",
+    "birthday-title": "Fecha de nacimiento",
+    "email-title": "Correo electrónico",
+    "phone-number-title": "Teléfono",
+    "phone-number-placeholder": "Ingrese su teléfono",
+    "gender-title": "Genero",
+    "gender-male": "Hombre",
+    "gender-female": "Mujer",
+    "gender-other": "Otro",
+    "save-button": "Guardar",
+    "edit-button": "Editar"
+  },
+  "sweet-alert": {
+    "title-error": "Lo sentimos",
+    "title-perfect": "¡Perfecto!",
+    "accept-button": "Vale",
+    "subtitle-error": "Verifique que todos los campos han sido llenados correctamente.",
+    "subtitle-save": "Su información ha sido guardada.",
+    "subtitle-edit": "Su información ha sido actualizada.",
+    "problem-persist": "Si el problema persiste, contáctenos.",
+    "subtitle-sent-email": "Se ha enviado un correo electrónico para cambiar la contraseña.",
+    "subtitle-same-password": "Las contraseñas no son iguales, intente de nuevo.",
+    "auth/user-not-found": "No hay registro de usuario correspondiente a este correo electrónico.",
+    "auth/wrong-password": "La contraseña no es válida.",
+    "auth/weak-password": "La contraseña debe tener al menos 6 caracteres.",
+    "auth/invalid-email": "La dirección de correo electrónico está mal formateada.",
+    "auth/email-already-in-use": "La dirección de correo electrónico ya está en uso por otra cuenta."
+  },
+  "footer": {
+    "section-1": "Title",
+    "section-1-item-1": "Subtitle",
+    "section-2": "Title",
+    "section-2-item-1": "Subtitle"
+  }
+}

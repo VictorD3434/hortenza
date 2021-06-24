@@ -1,0 +1,309 @@
+[
+  {
+  "name": "FRUTAS Y CEREALES",
+  "menu": [
+    {
+      "name": "Fruta de temporada",
+      "price": 62,
+      "image": "background-5",
+      "description": ""
+    },
+    {
+      "name": "Avena con manzana, nuez y frutos secos",
+      "price": 96,
+      "image": "background-5",
+      "description": ""
+    }
+  ]
+},
+  {
+  "name": "BOLLERÍA & MÁS",
+  "menu": [
+    {
+      "name": "Pan de la casa recién horneado",
+      "price": 16,
+      "image": "background-5",
+      "description": ""
+    },
+    {
+      "name": "Pancakes con fruta de temporada",
+      "price": 98,
+      "image": "pancakes-con-fruta-de-temporada",
+      "description": ""
+    }
+  ]
+},
+  {
+  "name": "HUEVO & OMELETTE",
+  "menu": [
+    {
+      "name": "Huevos revueltos al gusto",
+      "price": 98,
+      "image": "background-5",
+      "description": "con jamón | con chorizo | a la mexicana"
+    },
+    {
+      "name": "Omelette de huevo fresco acompañado de ensalada",
+      "price": 119,
+      "image": "omelette-de-champiñones",
+      "description": ""
+    },
+    {
+      "name": "Huevos rancheros en salsa verde o roja de molcajete",
+      "price": 119,
+      "image": "huevos-rancheros",
+      "description": ""
+    }
+  ]
+},
+  {
+      "name": "CAPRICHOS MEXICANOS",
+      "menu": [
+        {
+          "name": "Chilaquiles con pollo asado o huevo",
+          "price": 115,
+          "image": "background-5",
+          "description": ""
+        },
+        {
+          "name": "Enchiladas con pollo asado o huevo con queso blanco",
+          "price": 115,
+          "image": "background-5",
+          "description": ""
+        },
+        {
+          "name": "Enchiladas suizas",
+          "price": 119,
+          "image": "background-5",
+          "description": ""
+        },
+        {
+          "name": "Enfrijoladas de huevo o pollo con chorizo y aguacate",
+          "price": 121,
+          "image": "background-5",
+          "description": ""
+        },
+        {
+          "name": "Tlacoyos mineros",
+          "price": 118,
+          "image": "background-5",
+          "description": ""
+        },
+        {
+          "name": "Nopales asados con queso panela",
+          "price": 96,
+          "image": "background-5",
+          "description": ""
+        }
+      ]
+  },
+  {
+    "name": "NUESTROS JUGOS",
+    "menu": [
+      {
+        "name": "Naranja",
+        "price": 28,
+        "image": "background-5",
+        "description": ""
+      },
+      {
+        "name": "Toronja",
+        "price": 34,
+        "image": "background-5",
+        "description": ""
+      },
+      {
+        "name": "Fresa y Naranja",
+        "price": 46,
+        "image": "jugo-naranja-fresa",
+        "description": ""
+      },
+      {
+        "name": "Mango, Berry y Naranja",
+        "price": 52,
+        "image": "jugo-mango-blue-berrie",
+        "description": ""
+      },
+      {
+        "name": "Piña, Apio, Nopal y Chía.",
+        "price": 46,
+        "image": "background-5",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "LICUADOS",
+    "menu": [
+      {
+        "name": "Fresa, chocolate o vainilla",
+        "price": 52,
+        "image": "background-5",
+        "description": ""
+      },
+      {
+        "name": "Leche, Mango y Cardamomo",
+        "price": 58,
+        "image": "background-5",
+        "description": ""
+      },
+      {
+        "name": "Leche, mascarpone y brownie",
+        "price": 68,
+        "image": "background-5",
+        "description": ""
+      },
+      {
+        "name": "Leche de coco y frutos rojos",
+        "price": 72,
+        "image": "background-5",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "CAFÉ Y TÉ",
+    "menu": [
+      {
+        "name": "Espresso",
+        "price": 25,
+        "image": "background-5",
+        "description": ""
+      },
+      {
+        "name": "Americano",
+        "price": 28,
+        "image": "background-5",
+        "description": ""
+      },
+      {
+        "name": "Capuccino",
+        "price": 34,
+        "image": "background-5",
+        "description": ""
+      },
+      {
+        "name": "Latte",
+        "price": 39,
+        "image": "background-5",
+        "description": ""
+      },
+      {
+        "name": "Mocha",
+        "price": 49,
+        "image": "background-5",
+        "description": ""
+      },
+      {
+        "name": "Mocha Blanco",
+        "price": 51,
+        "image": "background-5",
+        "description": ""
+      },
+      {
+        "name": "Matcha",
+        "price": 42,
+        "image": "background-5",
+        "description": ""
+      },
+      {
+        "name": "Matcha Latte",
+        "price": 48,
+        "image": "background-5",
+        "description": ""
+      },
+      {
+        "name": "Té Herbal",
+        "price": 32,
+        "image": "background-5",
+        "description": ""
+      },
+      {
+        "name": "Tisana Frutal",
+        "price": 42,
+        "image": "background-5",
+        "description": ""
+      },
+      {
+        "name": "Té Chai",
+        "price": 39,
+        "image": "background-5",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "SMOOTHIES",
+    "menu": [
+      {
+        "name": "Mango",
+        "price": 45,
+        "image": "background-5",
+        "description": ""
+      },
+      {
+        "name": "Fresa",
+        "price": 45,
+        "image": "background-5",
+        "description": ""
+      },
+      {
+        "name": "Maracuya",
+        "price": 48,
+        "image": "background-5",
+        "description": ""
+      },
+      {
+        "name": "Frutos Rojos",
+        "price": 45,
+        "image": "background-5",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "name": "EXTRAS",
+    "menu": [
+      {
+        "name": "CONVIERTE TU PLATILLO EN PAQUETE",
+        "price": 85,
+        "image": "background-5",
+        "description": "Incluye jugo o fruta café o té 1 pza de pan"
+      }
+    ]
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
